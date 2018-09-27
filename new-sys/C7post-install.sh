@@ -1,5 +1,6 @@
 #!/usr/bin/sh
 # CentOS 7 
+# test
 
 #disable SELinux if enabled
 setenforce 0	#temporarily disable until reboot
